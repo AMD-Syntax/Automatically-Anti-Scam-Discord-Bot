@@ -74,30 +74,6 @@ We are committed to the continuous evolution of Nyx. Here is what we are working
 
 ---
 
-## ⚙️ Installation
-
-1.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/AMD-Syntax/Nyx-v1.0.7.git
-    cd Nyx-v1.0.7
-    ```
-2.  **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Configure Environment**:
-    Create a `.env` file in the root directory:
-    ```env
-    DISCORD_TOKEN=your_discord_bot_token
-    GROQ_API_KEY=your_groq_api_key
-    ```
-4.  **Launch**:
-    ```bash
-    python main.py
-    ```
-
----
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -114,4 +90,5 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-**Developed with ❤️ by [AMD-Syntax](https://github.com/AMD-Syntax)**
+**Developed - update by [AMD-Syntax](https://github.com/AMD-Syntax)**
+**Original source by [mishl-dev](https://github.com/mishl-dev)** 
